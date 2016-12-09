@@ -1,0 +1,7 @@
+{
+    "distribution": "ubuntu",
+    "pip": [
+        "Flask",
+        "rethinkdb"
+    ]
+}
